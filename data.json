@@ -1,0 +1,32 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Nodejs Course",
+            "author": "Jhon Carter",
+            "topic": "Javascript",
+            "url": "http://revl94.com"
+        },
+        {
+            "id": 2,
+            "title": "Spring boot Course",
+            "author": "Joe Carter",
+            "topic": "Java",
+            "url": "http://revl94.com"
+        },
+        {
+            "id": 3,
+            "title": "Django Course",
+            "author": "Camille White",
+            "topic": "Python",
+            "url": "http://revl94.com"
+        },
+        {
+            "id": 4,
+            "title": "Redux Course",
+            "author": "Jhon Carter",
+            "topic": "Javascript",
+            "url": "http://revl94.com"
+        }
+    ]
+}
